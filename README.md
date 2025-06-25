@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+# Vue TODO APP
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Context
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+I'm not a frontend developer. I consider myself a data and software engineer and my core abilities lies
+on how to solve problems using software and data.
+
+On that sense, I've been looking on how to make my life (and my software) easer by looking for options
+to make my software better to use.
+
+That's when I came up with the stack of tools of this testing project:
+1. BulmaCSS
+2. VueJS
+
+Trying to make my software more useful and intuitive is what I look for right now.
+
+## Tools:
+1. BulmaCSS
+2. VueJS
+3. ChatGPT - https://chatgpt.com/share/685bef71-7564-8010-9f10-f4a302c850ea
+
+
+## Functions
+1. Register as a user and get an email confirmation to activate account.
+2. As a user - register your own todo-list
+3. Edit and delete todo tasks
+4. Mark tasks as done.

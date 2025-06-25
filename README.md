@@ -25,3 +25,8 @@ Trying to make my software more useful and intuitive is what I look for right no
 2. As a user - register your own todo-list
 3. Edit and delete todo tasks
 4. Mark tasks as done.
+
+
+## RUN
+
+npm run dev
